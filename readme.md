@@ -21,7 +21,7 @@ after installation verify type :
 
 **code running guide :**
 <br>
-navigate top the folder where ts file is resided.
+navigate to the folder where ts file is resided.
 
 ```bash
     cd <folder name >
@@ -39,7 +39,7 @@ other way(on browser console) : will start the TypeScript compiler in watch mode
 ```bash
     tsc <ts file> --watch
 ```
-Now you don't need to compile files explicitely.
+Now you don't need to compile files explicitly.
 
 
 
