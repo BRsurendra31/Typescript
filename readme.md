@@ -61,5 +61,34 @@ console.log(obj.address) // error at compile time
     https://nodejs.org/en
         
     ```
+2. typescript compiler(tsc)
+    ```bash
+    npm install -g typescript
+    ```
+after installation verify type :
+```bash
+    node -v
+```
+```bash
+    tsc -v
+```
+
+
+**code running guide :**
+navigate top the folder where ts file is reside
+```
+    cd <folder name>
+```
+run ts file
+```
+    tsc <ts file>
+```
+run js file genarated fron running ts file
+
+```
+    node <js file>
+```
+
+
 
 
